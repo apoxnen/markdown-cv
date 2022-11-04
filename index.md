@@ -11,19 +11,13 @@ Software Engineer
 | <a href="https://github.com/apoxnen ">My GitHub</a>
 </div>
 
+### Core Skills
 
-## Currently
+Python, C#, API development, Data Engineering
 
-Standing on the shoulders of giants
+### Interests
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Data Science
 
 ## Work Experience
 
@@ -82,7 +76,7 @@ __Lappeenranta University of Technology, Lappeenranta, Finland__
 - I studied electrical engineering for one year with electrical energy systems as my major. I found computer science more interesting and decided to change my major.
 
 
-## Positions of responsibility and volunteering
+## Positions of Responsibility and Volunteering
 
 `2019-2021`
 __Member of the sports comitee__, Tietokilta Ry, *Espoo, Finland*
@@ -113,9 +107,12 @@ I was the secretary of the student organization of electrical engineering studen
 ## Projects & Awards
 
 __Hackathons__
-I've attended multiple hackathons in Helsinki region during my studies. These include the likes of Game Jam, Stupid Hackathon and Junction. 
-Junction is Europes largest hackathon, which we participated in with a team of three coders and two designers. We created a VR game, without mentionable experience about the domain beforehand, which won the game jam track and got us into the finals (top 6 projects). A great experience overall and learned a bunch about Unity, developing for HTC Vive and pitching without having slept properly for a few days.
 
+I've attended multiple hackathons in Helsinki region during my studies. These include the likes of Finnish Game Jam, Stupid Hackathon and Junction. My personal favourite was Junction 2017, Europes largest hackathon, which we participated in with a team of three coders and two designers. We created a VR game, without mentionable experience about the domain beforehand, which won the game jam track and got us into the finals (top 6 projects). A great experience overall and learned a bunch about Unity, developing for HTC Vive and pitching without having slept properly for a few days.
+
+__Finnish Military Service__
+
+I served in Kajaani Brigade from `Jul 2014` to `Jun 2015`. My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
 
 ### Languages
 
