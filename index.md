@@ -27,12 +27,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Work Experience
 
-`2022`
+`Jul 2022 - Oct 2022`
 __Co-Founder at SteadyBreeze__, Helsinki, Finland
 
-Throughout the year 2022 I was involved in a startup I co-founded with my friend. 
+Tested two promising ideas around renewable energy demand and generation matching. During the problem validation phase, we understood that a scalable product could not be built around the problem given the market dynamics. We did AB testing, interviewed industry experts, built technical MVPs of the products and analyzed the data gathered from test users.
 
-`2019-2022`
+`Jun 2019 - Sep 2022`
 __Software Designer at Atostek Oy__, Espoo, Finland
 
 Built software solutions to industry & healthcare problems. Key technologies I worked with: Python, C#, .NET, C++.
@@ -42,17 +42,17 @@ My main contributions:
 - Building a centralized server for storing medical images and patient data for a customer that manufactures medical devices. The main technologies used were ASP.NET Core, fo-dicom and postgres. I built an API for manipulating the data on the server, backend logic for DICOM operations, and a frontend management console using ASP.NET Core MVC model along with MaterializeCSS.
 - Other projects I worked on included a computer vision application using a Tensorflow trained model, building the user interface for an industrial-scale oil refinery simulator using .NET, and multiple different healthcare-related projects.
 
-`2018`
+`May 2018 - Aug 2018`
 __Summer Trainee at Nixu Corporation__, Espoo, Finland
 
 Spent my summer of 2018 developing a data management system in the Managed Security Services business unit of Nixu. This system aggregated and provided a meaningful way to tap into the Threat Intelligence data it received for the analysts who used it daily. The core system was built with Python using Flask and contained microservices with varying technologies.
 
-`2017`
+`May 2017 - Sep 2017`
 __Junior Software Developer at Fenix Solutions__, Espoo, Finland
 
 During my summer with Fenix Solutions I had the chance to get familiar with Microsoft Dynamics CRM. My main tasks were building plugin programs for integrating the CRM to other systems using C# as well as technical consultation of customers. I learned a whole bunch about .NET environment and working in a technical consulting business.
 
-`2016`
+`Jun 2016 - Aug 2016`
 __Trainee at Lappeenranta University of Technology__, Lappeenranta, Finland
 
 I was a summer trainee in the laboratory of electricity markets where worked with MS Excel and Matlab, translated course materials and created Moodle courses. I also got to plan and act in a series of educational clips about sustainable consumer choices and environmental awareness along with other summer trainees. Working here boosted my skills in Matlab and made me realize that being a researcher is not for me.
@@ -61,17 +61,17 @@ I was a summer trainee in the laboratory of electricity markets where worked wit
 ## Education
 
 `2019-2022`
-__Aalto University, Espoo, Finland__
+__Aalto University__, Espoo, Finland
 
 - Master's degree in Machine Learning, Data Science and Artificial Intelligence
 
 `2016-2019`
-__Aalto University, Espoo, Finland__
+__Aalto University__, Espoo, Finland
 
 - Bachelor's degree in Computer Science.
 
 `2018`
-__Nanyang Technological University, Singapore__
+__Nanyang Technological University__, Singapore
 
 - Studied my minor for my undergraduate degree in Nanyang Technological University in Singapore over the fall of 2018. The studies consisted of computer science and business courses.
 
@@ -85,12 +85,12 @@ __Lappeenranta University of Technology, Lappeenranta, Finland__
 ## Positions of responsibility and volunteering
 
 `2019-2021`
-__Member of the sports comitee__, *Tietokilta Ry*, Espoo, Finland
+__Member of the sports comitee__, Tietokilta Ry, *Espoo, Finland*
 
 During my studies I organized sports activities for students of computer science in Aalto University.
 
 `2016-2018`
-__Project Lead, Team Member__, *Aaltoes*, Espoo, Finland
+__Project Lead, Team Member__, Aaltoes, *Espoo, Finland*
 
 Aaltoes stands for Aalto Entrepreneurship Society, the largest and most active student-run entrepreneurship community in Europe.
 
@@ -99,14 +99,14 @@ I was the main organizer of Kiuas Team Up held in October 2017, which is a weeke
 During my time with Aaltoes I have also worked with some other projects like Heltech aka HKI Tech Meetup, which is a monthly event targeting cutting-edge topics.
 
 `2016`
-__Volunteer__, *Slush*, Helsinki, Finland
+__Volunteer__, Slush, *Helsinki, Finland*
 
 I volunteered at Slush 2016, a two-day international startup and investor event organized in Helsinki Finland that gathered 17 500 attendees this year. I was a part of event help team and our tasks included helping other teams and guiding the visitors. 
 
 I volunteered again in 2017 as a student representative of Aalto University. This time my main task was to tell the visitors about Aalto University's startup ecosystem and what it can offer to them.
 
 `2016`
-__Secretary__, *Sätky Ry*, Lappeenranta, Finland
+__Secretary__, Sätky Ry, *Lappeenranta, Finland*
 
 I was the secretary of the student organization of electrical engineering students in Lappeenranta.
 
