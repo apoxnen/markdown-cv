@@ -7,7 +7,7 @@ Software Engineer
 
 <div id="webaddress">
 <a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
-| <a href="https://www.linkedin.com/in/apharkonen/">My Linkedin</a>
+| <a href="https://www.linkedin.com/in/apharkonen/">My LinkedIn</a>
 | <a href="https://github.com/apoxnen ">My GitHub</a>
 </div>
 
