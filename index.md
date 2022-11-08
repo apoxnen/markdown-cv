@@ -13,11 +13,11 @@ Software Engineer
 
 ### Core Skills
 
-Python, C#, API development, Data Engineering
+Python, C#, API development
 
 ### Interests
 
-Machine Learning, Data Science
+Machine Learning, Data Science, Data Engineering
 
 ## Work Experience
 
