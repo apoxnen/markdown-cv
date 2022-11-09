@@ -3,19 +3,20 @@ layout: cv
 title: Ari-Pekka Härkönen's CV
 ---
 # Ari-Pekka Härkönen
-Software Engineer
+Software developer with Python and C# experience. Looking to put my degree in machine learning and data science to good use and further improve my programming skills.
 
 <div id="webaddress">
 <a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
 | <a href="https://www.linkedin.com/in/apharkonen/">My LinkedIn</a>
 | <a href="https://github.com/apoxnen ">My GitHub</a>
+| +358 408283654
 </div>
 
-### Core Skills
+## Core Skills
 
 Python, C#, API development
 
-### Interests
+## Interests
 
 Machine Learning, Data Science, Data Engineering
 
@@ -32,9 +33,9 @@ __Software Designer at Atostek Oy__, Espoo, Finland
 Built software solutions to industry & healthcare problems. Key technologies I worked with: Python, C#, .NET, C++.
 
 My main contributions: 
-- My master's thesis that I got to do as a part of an industrial chatbot project. In my thesis, I explored the possibilities of injecting chatbots with contextual information using ontologies (graph presentations of languages or domains), thus improving their understanding of the surrounding world. The thesis included a Python implementation.
-- Building a centralized server for storing medical images (DICOM) and patient data for a customer that manufactures medical devices. The main technologies used were ASP.NET Core, fo-dicom and postgres. I built an API for manipulating the data on the server, backend logic for DICOM operations, and a frontend management console using ASP.NET Core MVC model along with MaterializeCSS.
-- Other projects I worked on included a computer vision application using a Tensorflow-trained model, building the user interface for an industrial-scale oil refinery simulator using .NET, and multiple different healthcare-related projects.
+* My master's thesis that I got to do as a part of an industrial chatbot project. In my thesis, I explored the possibilities of injecting chatbots with contextual information using ontologies (graph presentations of languages or domains), thus improving their understanding of the surrounding world. The thesis included a Python implementation.
+* Building a centralized server for storing medical images (DICOM) and patient data for a customer that manufactures medical devices. The main technologies used were ASP.NET Core, fo-dicom and postgres. I built an API for manipulating the data on the server, backend logic for DICOM operations, and a frontend management console using ASP.NET Core MVC model along with MaterializeCSS.
+* Other projects I worked on included a computer vision application using a Tensorflow-trained model, building the user interface for an industrial-scale oil refinery simulator using .NET, and multiple different healthcare-related projects.
 
 `May 2018 - Aug 2018`
 __Summer Trainee at Nixu Corporation__, Espoo, Finland
@@ -54,12 +55,12 @@ I was a summer trainee in the laboratory of electricity markets where I worked w
 
 ## Education
 
-`2019-2022`
+`2019 - 2022`
 __Aalto University__, Espoo, Finland
 
 - Master's degree in Machine Learning, Data Science and Artificial Intelligence
 
-`2016-2019`
+`2016 - 2019`
 __Aalto University__, Espoo, Finland
 
 - Bachelor's degree in Computer Science.
@@ -70,7 +71,7 @@ __Nanyang Technological University__, Singapore
 - Studied my minor for my undergraduate degree at Nanyang Technological University in Singapore over the fall of 2018. The studies consisted of computer science and business courses.
 
 
-`2015-2016`
+`2015 - 2016`
 __Lappeenranta University of Technology, Lappeenranta, Finland__
 
 - I studied electrical engineering for one year with electrical energy systems as my major. I found programming more interesting and decided to change my major.
@@ -78,12 +79,12 @@ __Lappeenranta University of Technology, Lappeenranta, Finland__
 
 ## Positions of Responsibility and Volunteering
 
-`2019-2021`
+`2019 - 2021`
 __Member of the sports comitee__, Tietokilta Ry, *Espoo, Finland*
 
 During my studies, I organized sports activities for students of computer science at Aalto University.
 
-`2016-2018`
+`2016 - 2018`
 __Project Lead, Team Member__, Aaltoes, *Espoo, Finland*
 
 Aaltoes stands for Aalto Entrepreneurship Society, the largest and most active student-run entrepreneurship community in Europe.
@@ -106,15 +107,17 @@ I was the secretary of the student organization of electrical engineering studen
 
 ## Projects & Awards
 
+`2016 - 2019`
 __Hackathons__
 
 I've attended multiple hackathons in the Helsinki region during my studies. These include the likes of Finnish Game Jam, Stupid Hackathon and Junction. My personal favourite was Junction 2017, Europe's largest hackathon, which we participated in with a team of three coders and two designers. We created a VR game, without mentionable experience about the domain beforehand, which won the game jam track and got us into the finals (top 6 projects). A great experience overall and learned a bunch about Unity, developing for HTC Vive and pitching without having slept properly for a few days.
 
+`Jul 2014 - Jun 2015`
 __Finnish Military Service__
 
-I served in Kajaani Brigade from `Jul 2014` to `Jun 2015`. My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
+I served in Kajaani Brigade from . My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
 
-### Languages
+## Languages
 
 - Finnish: native fluency
 - English: professional working proficiency
