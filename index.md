@@ -7,8 +7,8 @@ Software developer with Python and C# experience. Looking to put my degree in ma
 
 <div id="webaddress">
 <a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
-| <a href="https://www.linkedin.com/in/apharkonen/">My LinkedIn</a>
-| <a href="https://github.com/apoxnen ">My GitHub</a>
+| <a href="https://www.linkedin.com/in/apharkonen/">LinkedIn</a>
+| <a href="https://github.com/apoxnen ">GitHub</a>
 | +358 408283654
 </div>
 
