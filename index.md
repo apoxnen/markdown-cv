@@ -93,7 +93,7 @@ I was the main organizer of Kiuas Team Up held in October 2017, which is a weeke
 
 During my time with Aaltoes I have also worked with some other projects like Heltech aka HKI Tech Meetup, which is a monthly event targeting cutting-edge topics.
 
-`2016`
+`2016 - 2017`
 __Volunteer__, Slush, *Helsinki, Finland*
 
 I volunteered at Slush 2016, a two-day international startup and investor event organized in Helsinki Finland that gathered 17 500 attendees this year. I was a part of the event help team and our tasks included helping other teams and guiding the visitors. 
@@ -115,7 +115,7 @@ I've attended multiple hackathons in the Helsinki region during my studies. Thes
 `Jul 2014 - Jun 2015`
 __Finnish Military Service__
 
-I served in Kajaani Brigade from . My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
+I served in Kajaani Brigade's first jaeger company. My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
 
 ## Languages
 
