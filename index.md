@@ -6,7 +6,7 @@ title: Ari-Pekka Härkönen's CV
 Software developer with Python and C# experience. Looking to put my degree in machine learning and data science to good use and further improve my programming skills.
 
 <div id="webaddress">
-<a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
+  ap.harko@gmail.com
 | <a href="https://www.linkedin.com/in/apharkonen/">LinkedIn</a>
 | <a href="https://github.com/apoxnen ">GitHub</a>
 | +358 408283654
