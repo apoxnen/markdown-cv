@@ -5,7 +5,7 @@ title: Ari-Pekka Härkönen's CV
 
 # Ari-Pekka Härkönen
 
-Solution-oriented ML/Data Engineer with a strong background in application development. driven by a passion for creating efficient, scalable solutions that unlock the full potential of data.
+Solution-oriented ML/Data Engineer with a strong background in application development. Driven by a passion for creating efficient, scalable solutions that unlock the full potential of data.
 My core expertise lies in data movement and processing, with a focus on optimizing solutions to align with client objectives. I specialize in bridging communication between diverse infrastructure components and applications, ensuring both ease of use and robust security—an endeavor I find both challenging and rewarding.
 
 <div id="webaddress">
