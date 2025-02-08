@@ -5,8 +5,7 @@ title: Ari-Pekka Härkönen's CV
 
 # Ari-Pekka Härkönen
 
-Solution-oriented ML/Data Engineer with a strong background in application development. driven by a passion for creating efficient, scalable solutions that unlock the full potential of data.
-My core expertise lies in data movement and processing, with a focus on optimizing solutions to align with client objectives. I specialize in bridging communication between diverse infrastructure components and applications, ensuring both ease of use and robust security—an endeavor I find both challenging and rewarding.
+Solution-oriented Data/ML Engineer with a strong background in application development. Enthusiastic about developing efficient, scalable solutions that unlock the full potential of data.
 
 <div id="webaddress">
 <a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
@@ -14,26 +13,27 @@ My core expertise lies in data movement and processing, with a focus on optimizi
 | <a href="https://github.com/apoxnen ">My GitHub</a>
 </div>
 
-### Core Skills
+## Core Skills
 
-Python, C#, API development, data engineering
+Python, data engineering, API development, TypeScript
 
-### Interests
+## Interests
 
-Machine learning, data science, creating scalable solutions, software architecture
+Machine learning, data science, data engineering, cloud infrastructure
 
 ## Work Experience
 
 `Jan 2023 - Now`
-**Data Engineer at Smartbi**, Helsinki, Finland
+**Data/ML Engineer at Smartbi**, Helsinki, Finland
 
-Working on building AI/ML solutions for industrial businesses. Key technologies I worked with: Python, Azure, Kubernetes, SQL and no-SQL databases, AWS, TypeScript, Node.js, Docker
+Working on building AI/ML solutions for industrial businesses. Key technologies I worked with: Python, Azure, Kubernetes, SQL and no-SQL databases, AWS, TypeScript, Node.js, Docker, Azure OpenAI
 
 Main contributions include:
 
 - Designing and implementing a modular Python-based data processing engine that is a core component of a family of client products. The engine reads, processes and analyzes the input data and produces results such as recommendations for the end users, commands for automatic controlling of hardware devices, signal validation and statistical information. Each installation uses a site-spesific configuration file, which are constantly modified by the client. The engine is a highly flexible and configurable solution easily introduced to new operational contexts, while maintaining high performance and reliability across all deployments.
 - Integrating the data processing engine into various client products, working closely with cross-functional teams, including product managers, engineers, and stakeholders, to ensure smooth integration and alignment with client needs. This process involves handling databases, transforming data into engine-supported formats, and implementing as well as consuming various APIs. Key challenges addressed include ensuring seamless integration across diverse systems, optimizing performance in real-time data processing, and maintaining compatibility with evolving client requirements. Main technologies I worked with include Microsoft Azure, Python, SQL, TypeScript, FastAPI, and Express.
 - Modernizing another client's AWS cloud infrastructure: together with the team we automatized and improved the efficiency of data pipelines and monitoring. We achieved significant cost cuts while simultaneously simplifiying the architecture.
+- Worked on internal guidelines and blueprints for using LLMs in client projects, especially for Azure OpenAI.
 
 `Jul 2022 - Oct 2022`
 **Co-Founder at SteadyBreeze**, Helsinki, Finland
@@ -59,12 +59,11 @@ Spent the summer of 2018 developing a data management system in the Managed Secu
 `May 2017 - Sep 2017`
 **Junior Software Developer at Fenix Solutions**, Espoo, Finland
 
-During my summer with Fenix Solutions I had the chance to get familiar with Microsoft Dynamics CRM. My main tasks were building plugin programs for integrating the CRM to other systems using C# as well as technical consultation of customers. I learned a whole bunch about .NET environment and working in a technical consulting business.
-
 `Jun 2016 - Aug 2016`
 **Trainee at Lappeenranta University of Technology**, Lappeenranta, Finland
 
-I was a summer trainee in the laboratory of electricity markets where I worked with MS Excel and Matlab, translated course materials and created Moodle courses. I also got to plan and act in a series of educational clips about sustainable consumer choices and environmental awareness along with other summer trainees. Working here boosted my skills in Matlab and made me realize that being a researcher is not for me.
+<br/><br/>
+<br/><br/>
 
 ## Education
 
@@ -122,11 +121,14 @@ I was the secretary of the student organization of electrical engineering studen
 
 I've attended multiple hackathons in the Helsinki region during my studies. These include the likes of Finnish Game Jam, Stupid Hackathon and Junction. My personal favourite was Junction 2017, Europe's largest hackathon, which we participated in with a team of three coders and two designers. We created a VR game which won the game jam track and got us into the finals (top 6 projects). A great experience overall and learned a bunch about Unity, developing for HTC Vive and pitching without having slept properly for a few days.
 
+`Jul 2014 - Jun 2015`
 **Finnish Military Service**
 
-I served in Kajaani Brigade from `Jul 2014` to `Jun 2015`. My military rank is second lieutenant and at the end of my conscription I received the medal for best leader of our class.
+I served in Kajaani Brigade’s first jaeger company. My military rank is second
+lieutenant and at the end of my conscription I received the medal for best leader of
+our class.
 
-### Languages
+## Languages
 
 - Finnish: native fluency
 - English: professional working proficiency
