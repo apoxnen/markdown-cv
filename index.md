@@ -26,7 +26,7 @@ Agentic frameworks and tools, Cloud infrastructure, scalable software
 `Jan 2023 - Now`
 **AI/ML Engineer at Smartbi/Norrin**, Helsinki, Finland
 
-Working on building AI/ML solutions for industrial businesses. Key technologies I worked with: Python, Azure, Kubernetes, SQL and no-SQL databases, AWS, TypeScript, Node.js, Docker, Azure OpenAI
+Working on building AI/ML solutions for industrial businesses. Key technologies I worked with: Python, Azure, Kubernetes, SQL and no-SQL databases, AWS, TypeScript, Node.js, Docker, Azure Foundry
 
 Main contributions include:
 
@@ -35,7 +35,7 @@ Main contributions include:
 - Designing and implementing a modular Python-based data processing engine that is a core component of a family of client products. The engine reads, processes and analyzes the input data and produces results such as recommendations for the end users, commands for automatic controlling of hardware devices, signal validation and statistical information. Each installation uses a site-specific configuration file, which are constantly modified by the client. The engine is a highly flexible and configurable solution easily introduced to new operational contexts, while maintaining high performance and reliability across all deployments.
 - Integrating the data processing engine into various client products, working closely with cross-functional teams, including product managers, engineers, and stakeholders, to ensure smooth integration and alignment with client needs. This process involves handling databases, transforming data into engine-supported formats, and implementing as well as consuming various APIs. Key challenges addressed include ensuring seamless integration across diverse systems, optimizing performance in real-time data processing, and maintaining compatibility with evolving client requirements. Main technologies I worked with include Microsoft Azure, Python, SQL, TypeScript, FastAPI, and Express.
 - Modernizing another client's AWS cloud infrastructure: together with the team we automatized and improved the efficiency of data pipelines and monitoring. We achieved significant cost cuts while simultaneously simplifying the architecture.
-- Worked on internal guidelines and blueprints for using LLMs in client projects, especially for Azure OpenAI.
+- Worked on internal guidelines and blueprints for using LLMs in client projects, especially for Azure Foundry.
 
 `Jul 2022 - Oct 2022`
 **Co-Founder at SteadyBreeze**, Helsinki, Finland
