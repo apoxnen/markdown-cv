@@ -5,7 +5,7 @@ title: Ari-Pekka Härkönen's CV
 
 # Ari-Pekka Härkönen
 
-Solution-oriented Data/ML Engineer with a strong background in application development. Enthusiastic about developing efficient, scalable solutions that unlock the full potential of data.
+Solution-oriented AI/Software Engineer with a strong background in application development. Enthusiastic about developing efficient, scalable solutions that unlock the full potential of data.
 
 <div id="webaddress">
 <a href="ap.harko@gmail.com">ap.harko@gmail.com</a>
@@ -15,24 +15,26 @@ Solution-oriented Data/ML Engineer with a strong background in application devel
 
 ## Core Skills
 
-Python, data engineering, API development, TypeScript
+Python, Azure, LLMs, API development, TypeScript
 
 ## Interests
 
-Machine learning, data science, data engineering, cloud infrastructure
+Agentic frameworks and tools, Cloud infrastructure, scalable software
 
 ## Work Experience
 
 `Jan 2023 - Now`
-**Data/ML Engineer at Smartbi**, Helsinki, Finland
+**AI/ML Engineer at Smartbi/Norrin**, Helsinki, Finland
 
 Working on building AI/ML solutions for industrial businesses. Key technologies I worked with: Python, Azure, Kubernetes, SQL and no-SQL databases, AWS, TypeScript, Node.js, Docker, Azure OpenAI
 
 Main contributions include:
 
-- Designing and implementing a modular Python-based data processing engine that is a core component of a family of client products. The engine reads, processes and analyzes the input data and produces results such as recommendations for the end users, commands for automatic controlling of hardware devices, signal validation and statistical information. Each installation uses a site-spesific configuration file, which are constantly modified by the client. The engine is a highly flexible and configurable solution easily introduced to new operational contexts, while maintaining high performance and reliability across all deployments.
+- Building a centralized AI platform for a client. The platform offers an LLM-agnostic endpoint for all users in the organization, custom monitoring metrics and views, and access control for each LLM deployment, managed by the client organization. Additionally, the platform handles connections to an MCP library with the same access roles and added logging. I worked on the Terraform files, the MCP component (FastMCP) and its related proxy endpoint (FastAPI), the custom metrics and their visualization using Azure Workbooks, and contributed to designing the overall architecture of the solution.
+- Agentic worker for a client in the financial sector that converts SSIS packages into PySpark. I worked on the backend component (FastAPI), handling context windows for LLM calls (LangChain), as well as deploying and provisioning resources with Terraform. Challenges during this project involved lack of training data and example outputs and context window management for very large packages, result was a working agent with OpenAI-like user interface capable of converting and visualizing the results.
+- Designing and implementing a modular Python-based data processing engine that is a core component of a family of client products. The engine reads, processes and analyzes the input data and produces results such as recommendations for the end users, commands for automatic controlling of hardware devices, signal validation and statistical information. Each installation uses a site-specific configuration file, which are constantly modified by the client. The engine is a highly flexible and configurable solution easily introduced to new operational contexts, while maintaining high performance and reliability across all deployments.
 - Integrating the data processing engine into various client products, working closely with cross-functional teams, including product managers, engineers, and stakeholders, to ensure smooth integration and alignment with client needs. This process involves handling databases, transforming data into engine-supported formats, and implementing as well as consuming various APIs. Key challenges addressed include ensuring seamless integration across diverse systems, optimizing performance in real-time data processing, and maintaining compatibility with evolving client requirements. Main technologies I worked with include Microsoft Azure, Python, SQL, TypeScript, FastAPI, and Express.
-- Modernizing another client's AWS cloud infrastructure: together with the team we automatized and improved the efficiency of data pipelines and monitoring. We achieved significant cost cuts while simultaneously simplifiying the architecture.
+- Modernizing another client's AWS cloud infrastructure: together with the team we automatized and improved the efficiency of data pipelines and monitoring. We achieved significant cost cuts while simultaneously simplifying the architecture.
 - Worked on internal guidelines and blueprints for using LLMs in client projects, especially for Azure OpenAI.
 
 `Jul 2022 - Oct 2022`
@@ -61,9 +63,6 @@ Spent the summer of 2018 developing a data management system in the Managed Secu
 
 `Jun 2016 - Aug 2016`
 **Trainee at Lappeenranta University of Technology**, Lappeenranta, Finland
-
-<br/><br/>
-<br/><br/>
 
 ## Education
 
